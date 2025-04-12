@@ -1,1 +1,3 @@
 # CE6068_Bioinformatics_and_Computational_Molecular
+
+1132 CE6068 生物資訊與計算分子生物學 Bioinformatics and Computational Molecular
